@@ -1,0 +1,5 @@
+log
+*.pyc
+*.txt
+*.log
+*.png
